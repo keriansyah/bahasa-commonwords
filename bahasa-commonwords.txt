@@ -48,6 +48,14 @@ memperbaiki
 sebaiknya
 terbaik
 
+beda
+berbeda
+berbeda-beda
+membedakan
+membeda-bedakan
+perbedaan
+memperbedakan
+
 belum
 sebelum
 sebelumnya
@@ -67,6 +75,11 @@ biar
 biarpun
 membiarkan
 
+boleh
+kebolehan
+membolehkan
+memperbolehkan
+
 bukan
 bukannya
 bukankah
@@ -78,7 +91,26 @@ mencontohi
 mencontohkan
 
 dan
+
+dapat
+mendapat
+mendapati
+mendapatkan
+pendapat
+berpendapat
+pendapatan
+terdapat
+sependapat
+
 dengan
+
+dengar
+mendengar
+mendengarkan
+terdengar
+memperdengarkan
+pendengar
+pendengaran
 
 dia
 dirinya
@@ -97,6 +129,14 @@ ikut
 berikut
 berikutnya
 
+jalan
+berjalan
+menjalani
+menjalankan
+perjalanan
+sejalan
+jalan pintas
+
 jangan
 jangankan
 
@@ -104,6 +144,8 @@ jika
 jikalau
 
 juga
+
+justru
 
 kalian
 kalau
@@ -114,6 +156,13 @@ kamu
 kapan
 kapan pun
 karena
+
+kata
+berkata
+berkata-kata
+mengatakan
+perkataan
+
 kau
 kelak
 kemudian
@@ -141,21 +190,57 @@ lagi
 selagi
 
 lalu
+berlalu
+melalui
+terlalu
+
+
 lanjut
 selanjutnya
+
+lebih
+berlebih
+berlebihan
+melebihi
+melebihkan
+melebih-lebihkan
+terlebih
+kelebihan
+selebihnya
+lebih kurang
 
 lepas
 selepas
 
+lewat
+melewati
+melewatkan
+terlewat
+terlewati
+lewat batas
+
 maka
+
+maki
+memaki
+memaki-maki
+makian
+caci maki
+mencaci maki
+
+makin
+semakin
+
+maksud
+bermaksud
+maksudnya
 
 mana
 di mana
 di mana pun
 
-maksud
-bermaksud
-maksudnya
+malah
+malahan
 
 mau
 maupun
@@ -169,6 +254,7 @@ mereka
 mereka pun
 
 meski
+meskipun
 
 nanti
 oke
@@ -176,6 +262,17 @@ oleh
 
 pada
 padahal
+
+padu
+berpadu
+kepaduan
+memadu
+memadukan
+memperpadukan
+terpadu
+perpaduan
+
+
 pernah
 pun
 pula
@@ -208,7 +305,24 @@ sama-sama
 sesama
 
 saya
+
+sedia
+bersedia
+ketersediaan
+menyediakan
+penyedia
+persediaan
+tersedia
+
 selesai
+menyelesaikan
+penyelesaian
+terselesaikan
+
+selisih
+berselisih
+memperselisihkan
+perselisihan
 
 serta
 beserta
@@ -225,6 +339,7 @@ sesudah
 sungguh
 sungguh-sungguh
 sesungguhnya
+sungguhpun
 
 tak
 
